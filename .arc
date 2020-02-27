@@ -5,6 +5,7 @@ local-sl7
 
 @http
 get /hello
+get /
 
 @tables
 data
